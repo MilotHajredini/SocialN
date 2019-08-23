@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Milo:A123456@socialn-7ctyg.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "65b89bf09758c0e0bfc7",
+  "githubSecret": "b80e83cbd485720bbd2af6aa055ee22469ab9993"
+}
